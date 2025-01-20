@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## 📊 Github Statistics
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=BdClement&show_icons=true&hide_title=true)
+
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BdClement&layout=compact)
+
+
 <!--
 **BdClement/BdClement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
