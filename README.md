@@ -1,20 +1,10 @@
 ## Hi there 👋
 
-## 📊 Github Statistics
+## 📊 Stats
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1;">
-    ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=BdClement&show_icons=true&hide_title=true&theme=merko)
-  </div>
-  <div style="flex: 1;">
-    ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BdClement&layout=compact&theme=merko)
-  </div>
-</div>
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=BdClement&show_icons=true&hide_title=true)
-
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BdClement&layout=compact)
+|  |  |
+|--|--|
+| ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=BdClement&show_icons=true&hide_title=true&theme=merko) | ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BdClement&layout=compact&theme=merko) |
 
 
 <!--
