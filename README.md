@@ -5,7 +5,6 @@
  ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=BdClement&show_icons=true&hide_title=true&theme=merko)  
  ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BdClement&layout=compact&theme=merko)
 
- ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=BdClement&theme=merko)
 <!--
 **BdClement/BdClement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
