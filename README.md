@@ -1,9 +1,8 @@
 ## Hi there 👋  
 Welcome to my profile !  
-🌱 In constant search for improvement and knowledge in web development, web3, cybesecurity 
+🌱 In constant search for improvement and knowledge in web development, web3, cybesecurity  
 💬 Feel free to reach out  
 
-## Some 
 
 ## 📊 Stats
 
